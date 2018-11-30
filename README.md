@@ -22,6 +22,8 @@ x     | y     | yaw
 
 These results show that the particle filter is able to track the car with high accuracy. Using more particles will result in a lower error, using less in a higher one.
 
+![](./P8.gif)
+
 
 # Build & Run
 
